@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:8081/admin/</loc>
+    <lastmod>2020-03-21T13:26:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8081/demo/</loc>
+    <lastmod>2020-03-21T13:26:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8081/</loc>
+    <lastmod>2020-03-21T13:27:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8081/tags/sinlovefxy/</loc>
+    <lastmod>2020-03-21T13:27:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8081/admin/2020-03-21t132714/</loc>
+    <lastmod>2020-03-21T13:27:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8081/tags/</loc>
+    <lastmod>2020-03-21T13:27:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8081/categories/</loc>
+  </url>
+  
+</urlset>

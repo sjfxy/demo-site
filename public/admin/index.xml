@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sin on Material Docs</title>
+    <link>http://localhost:8081/admin/</link>
+    <description>Recent content in sin on Material Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2020 13:26:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:8081/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sinlovefxy</title>
+      <link>http://localhost:8081/admin/2020-03-21t132714/</link>
+      <pubDate>Sat, 21 Mar 2020 13:27:14 +0800</pubDate>
+      
+      <guid>http://localhost:8081/admin/2020-03-21t132714/</guid>
+      <description>子标题 1 正文&amp;hellip;
+子标题 2 正文&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
